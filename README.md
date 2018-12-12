@@ -13,4 +13,4 @@ Course Distributed Systems: Java RMI 1
 **Academic Year**: 2013-2014 (1st semester - 1st Master of Science in Engineering: Computer Science)
 
 ## About
-Car rental application using Java RMI. (The *bonus* project provides a distributed setup with separate client and server code, and rmiregistry localisation) (see full [car rental project](https://github.com/matt77hias/meta-carrental))
+Car rental application using Java RMI. The *bonus* project provides a distributed setup with separate client and server code, and rmiregistry localisation. (See full [car rental project](https://github.com/matt77hias/meta-carrental))
