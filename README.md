@@ -3,7 +3,7 @@
 [s1]: https://img.shields.io/badge/licence-GPL%203.0-blue.svg
 [li]: https://raw.githubusercontent.com/matt77hias/JavaRMI1/master/LICENSE.txt
 
-# JavaRMI1
+# Java RMI 1
 Course Distributed Systems: Java RMI 1
 
 **Team**:
